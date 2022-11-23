@@ -58915,7 +58915,7 @@ break
 case 4:r.l(0,n,"\ud56b\ud329")
 r.l(0,m,"zzzz.jpeg")
 break
-case 5:r.l(0,n,"\ud56d\uacf5 \ubc14\uc6b0\ucc98")
+case 5:r.l(0,n,"\uad6d\ubbfc\uad00\uad11\uc0c1\ud488\uad8c")
 r.l(0,m,"travel.jpeg")
 break
 case 6:r.l(0,n,"\ubc30\ubbfc \ucfe0\ud3f0")
