@@ -1,11 +1,11 @@
 {
-    "name": "web_jeongeum",
-    "short_name": "web_jeongeum",
+    "name": "web_snaptag_ipa",
+    "short_name": "web_snaptag_ipa",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "jeongeum_web",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
