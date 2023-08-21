@@ -94530,7 +94530,7 @@ return this.amI(A.br(a,null,s).w.a.a<800,A.br(a,null,s).w.a.a>1600)},
 amI(a,b){var s,r=null,q=b?30:15,p=b?30:0,o=$.lu
 if(o&&a||!o)s=new A.Cs(this.c,r)
 else{o=this.c
-s=b?new A.Cv(120,180,o,r):new A.Cu(o,r)}return new A.bL(new A.aK(q,p,q,0),A.hJ(A.a([new A.Tk(b,120,180,r),A.bW(r,b?20:0,r),A.kv(s,1),A.bW(A.EY(A.co("Download",r,r,r,r,r,r),r,new A.aj5(),r),50,100)],t.p),B.L,B.ae,B.a2),r)}}
+s=b?new A.Cv(120,180,o,r):new A.Cu(o,r)}return new A.bL(new A.aK(q,p,q,0),A.hJ(A.a([new A.Tk(b,120,180,r),A.bW(r,b?20:0,r),A.kv(s,1),A.bW(A.EY(A.co("Download 1",r,r,r,r,r,r),r,new A.aj5(),r),50,100)],t.p),B.L,B.ae,B.a2),r)}}
 A.aj5.prototype={
 $0(){var s=A.a8R("itms-services://?action=download-manifest&url=https://lmw940423.github.io/LWM940423.github.io/ipa/test/manifest.plist")
 s.download="test.ipa"
