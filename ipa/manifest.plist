@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://lmw940423.github.io/LWM940423.github.io/ipa/keefo.ipa</string>
+					<string>https://keefo-dev.s3.ap-northeast-2.amazonaws.com/mypage/default_profile_image.jpeg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://lmw940423.github.io/LWM940423.github.io/ipa/keefo.ipa</string>
+					<string>https://keefo-dev.s3.ap-northeast-2.amazonaws.com/mypage/default_profile_image.jpeg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
